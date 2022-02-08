@@ -1,3 +1,3 @@
-# SQL_CustomerRetention
+# CustomerRetention
 
-A SQL Code to compute Customer Retention Rate using SQLite
+SQL Code to compute Customer Retention Rate using SQLite as Database
